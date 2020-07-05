@@ -1,11 +1,8 @@
 body{
     background-color: #ffe4c4;
-    /* height: 50%;
-    width: 100%; */
 }
 
 .block{
-    /* display: inline-block; */
     text-align: center;
 }
 h1 {
